@@ -4,6 +4,12 @@
   
     
     <entry>
+      <title><![CDATA[文章]]></title>
+      <url>http://lujinxin.pw/2016/08/19/%E6%96%87%E7%AB%A0/</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[本站说明]]></title>
       <url>http://lujinxin.pw/2015/08/29/%E6%9C%AC%E7%AB%99%E8%AF%B4%E6%98%8E/</url>
       <content type="html"><![CDATA[<p>经过几天的研究，基于 Hexo 和 GitHub 的此博客终于建立起来。经过多次测试和修改，仍然有几个问题未能解决。<br><a id="more"></a></p>
